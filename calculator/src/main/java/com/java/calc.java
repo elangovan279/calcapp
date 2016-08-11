@@ -17,4 +17,10 @@ public class calc {
 
 	}
 
+	public double div(double a, double b) {
+		double result = a / b;
+		return result;
+
+	}
+
 }
