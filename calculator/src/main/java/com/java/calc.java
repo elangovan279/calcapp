@@ -6,11 +6,6 @@ public class calc {
 		return result;
 	}
 
-	public double div(double a, double b) {
-		double result = a / b;
-		return result;
-	}
-
 	public double sub(double a, double b) {
 		double result = a - b;
 		return result;
